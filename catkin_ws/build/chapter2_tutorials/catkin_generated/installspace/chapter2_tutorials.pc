@@ -3,6 +3,6 @@ prefix=/home/parallels/ros/catkin_ws/install
 Name: chapter2_tutorials
 Description: Description of chapter2_tutorials
 Version: 0.0.0
-Cflags: 
+Cflags: -I/home/parallels/ros/catkin_ws/install/include
 Libs: -L/home/parallels/ros/catkin_ws/install/lib 
 Requires: 
