@@ -1,0 +1,8 @@
+prefix=/home/parallels/ros/catkin_ws/devel
+
+Name: chapter2_tutorials
+Description: Description of chapter2_tutorials
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/parallels/ros/catkin_ws/devel/lib 
+Requires: 
